@@ -69,10 +69,11 @@ class Pdf:
 
 
 def signing_field(field):
-    label = field["alternativename"] or ""
+    label = re.sub(r"^\s*\d+\s*-\s*", "", field["alternativename"] or "").strip()
     name = field["fullname"].lower()
+    bare_date = re.fullmatch(r"(?:Datum|Ausstellungsdatum)(?:\s*\(TT\.MM\.JJJJ\))?\s*\*?", label, re.I)
     return (field["fieldtype"] == "/Sig" or "stempel" in name or "unterschrift" in name
-            or bool(re.search(r"^(?:\d+\s*-\s*)?(?:Datum|Stempel|Unterschrift|Name, Unterschrift)\b", label, re.I)))
+            or bool(bare_date or re.search(r"\b(?:Stempel|Unterschrift)\b", label, re.I)))
 
 
 def inspect(pdf):

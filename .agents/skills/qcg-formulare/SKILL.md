@@ -15,6 +15,16 @@ Liefere eine vorbefüllte Kopie jeder angeforderten Datei für die teilnehmende 
 
 Prüfe vor der Übergabe Querverbindungen: Privat- und Arbeitgeberanschrift in den richtigen Feldern, identische fallbezogene Kennungen, Modul, Maßnahmenummer und Laufzeit, Unterscheidung zwischen Unterrichtseinheiten, Zeitstunden und bezahltem weiterbildungsbedingtem Arbeitsausfall. Stimme bei Abweichungen ab, welche Angabe gilt. Trenne Entwurfsstatus, Unterschriftsstatus und Einreichungsstatus.
 
+## Regionale Bildungszielplanung und BA-Kontakte
+
+Wenn ein konkreter Fall eine Förderbegründung oder einen BA-Kontakt braucht, prüfe die regionale Bildungszielplanung live. Bei der individuellen Förderung nach § 81 SGB III ermittle die für die teilnehmende Person zuständige Agentur. Bei QCG nach § 82 SGB III prüfe die Zuständigkeit des Arbeitgeber-Service anhand des Sitzes der personalverantwortlichen Leitung. Verwende im §-81-Fall diesen Abschnitt für die Planrecherche und den Trägerkontakt.
+
+1. Öffne die offizielle BA-Seite des Bezirks und die Originalfassung für das geplante Startjahr. Prüfe Datum, Nachträge, neuere Fassungen und den relevanten Abschnitt für den Förderweg. Prüfe auch den veröffentlichten Kontaktweg. Ältere Fundstellen und Kontaktlisten dienen als Einstieg in die Recherche.
+2. Dokumentiere Bezirk, Förderweg, Startjahr, Planjahr, Fassung oder Veröffentlichungsdatum, Abrufdatum, Fundstelle mit Seite oder Abschnitt und die genaue Nennung. Ordne ein, ob die Quelle ein konkretes Bildungsziel, ein Beispiel oder einen allgemeinen Bedarf beschreibt. Vergleiche Ziel, Maßnahme und belegte Vorqualifikation. Bei veröffentlichter Änderung aktualisiere Fundstelle, Begründung und Entwurf.
+3. Prüfe erneut vor der Übergabe einer Förderbegründung oder eines BA-Kontaktentwurfs, wenn seit der letzten Prüfung ein neuer Plan oder Nachtrag erschienen sein kann, der Kursstart oder Bezirk sich ändert oder die BA auf eine andere Fassung verweist. Ist die maßgebliche Fassung öffentlich nicht verifizierbar, markiere den Planstand als offen, bereite eine Rückfrage an die zuständige Stelle vor und bearbeite die übrigen Unterlagen weiter.
+
+Für die Energieberater-Ausbildung mit individuellem Bildungsgutschein nutze die [NetZero-Arbeitsgrundlage mit vier Agenturbezirken und Erstkontakt-Entwürfen](https://github.com/latissimusdorsi314/NetZero/blob/main/docs/azav-energieberatung-ba-erstkontakt.md). Prüfe die dort genannten Planfassungen und Kontakte vor Verwendung erneut.
+
 ## Teilnehmervertrag und Versandmail
 
 Lies bei diesem Auftrag die [Anleitung zur Vertragserstellung](references/teilnehmervertrag.md). Nutze die Vertragsdaten der Teilnehmer:innen, den bestätigten Lehrgang und den belegten Startstatus. Prüfe, ob es eine freigegebene kursbezogene Vertragsfassung gibt. Wenn sie vorliegt, übernimm deren Regelungen. Falls nur die neutrale Vorlage vorliegt, erstelle eine vorausgefüllte Arbeitsfassung mit sichtbaren Lücken. Der lokale [Vertragshelfer](scripts/teilnehmervertrag.py) erzeugt Vertrag und passende Versandmail gemeinsam. Die Mail nennt Anhang, Buchungsstatus, Startdatum, Uhrzeit, Zugang, Vertragsrückgabe und Teilnahme am bestätigten ersten Kurstag. Verwende Vormerkung, solange der konkrete Start nicht bestätigt ist. Übergabe und Versand unterliegen dem üblichen Auftrag und dem vereinbarten Kanal.

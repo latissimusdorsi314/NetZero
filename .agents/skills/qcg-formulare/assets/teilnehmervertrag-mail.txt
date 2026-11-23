@@ -1,0 +1,16 @@
+An: $teilnehmer_email
+Betreff: $mail_betreff
+
+Hallo $teilnehmer_vorname,
+
+anbei findest Du Deinen Teilnehmervertrag für $kurs$modul_zusatz. $mail_buchung
+
+$mail_start_label: $startdatum$startzeit_zusatz
+$mail_zugang
+
+Bitte prüfe den Vertrag und bestätige ihn bis $rueckgabefrist über $rueckgabeweg. $mail_start_bestaetigen
+
+$mail_teilnahmepflicht Bei einer Verhinderung oder einem Zugangsproblem melde Dich bitte sofort bei $traeger_kontakt.
+
+Viele Grüße
+$absenderteam

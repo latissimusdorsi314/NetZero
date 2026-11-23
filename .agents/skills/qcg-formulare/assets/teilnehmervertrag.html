@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Teilnehmervertrag · Weiterbildung</title>
+  <style>
+    :root{color-scheme:light;color:#1b2d26;background:#f0f4f1;font:16px/1.48 system-ui,sans-serif}
+    *{box-sizing:border-box}body{margin:0}main{max-width:54rem;margin:1.8rem auto;padding:2rem 2.4rem;background:white;border-top:6px solid #155e48}
+    h1{font-size:2rem;margin:.45rem 0 .25rem;line-height:1.15}h2{font-size:1.12rem;margin:0 0 .6rem;color:#174635}h3{font-size:.98rem;margin:0 0 .35rem}p{margin:.35rem 0 .7rem}
+    header{padding-bottom:1rem;border-bottom:1px solid #cfdbd3}.badge{display:inline-block;font-size:.85rem;font-weight:650;background:#e6f1e9;padding:.25rem .55rem;border-radius:.3rem}
+    section{margin-top:1.15rem}dl{margin:0;display:grid;grid-template-columns:minmax(9rem,1fr) 2fr;gap:.28rem .75rem}dt{color:#405348}dd{margin:0;overflow-wrap:anywhere}
+    .pair{display:grid;grid-template-columns:1fr 1fr;gap:1rem}.party{padding:.7rem .85rem;background:#f4f7f5;border:1px solid #d9e4dc}.address,.terms{white-space:pre-line;overflow-wrap:anywhere}
+    .signature{padding-top:2rem;border-bottom:1px solid #455d50;margin-bottom:.3rem}.small{font-size:.88rem;color:#405348}footer{margin-top:1.1rem;padding-top:.65rem;border-top:1px solid #cfdbd3}
+    @media(max-width:560px){main{margin:0;padding:1.2rem}.pair{grid-template-columns:1fr}dl{grid-template-columns:1fr;gap:.12rem}dd{margin-bottom:.35rem}}
+    @media print{@page{size:A4;margin:13mm} :root{background:white;font-size:10.5pt}main{margin:0;padding:0;max-width:none;border-top:0}header,section,.party{break-inside:avoid}h2,h3{break-after:avoid}.pair{grid-template-columns:1fr 1fr}dl{grid-template-columns:minmax(8rem,1fr) 2fr}}
+  </style>
+</head>
+<body><main>
+  <header>
+    <span class="badge">$dokumentstatus</span>
+    <h1>Teilnehmervertrag</h1>
+    <p>Berufliche Weiterbildung · $kurs</p>
+  </header>
+  <section aria-labelledby="parteien">
+    <h2 id="parteien">1. Vertragsparteien</h2>
+    <div class="pair">
+      <div class="party"><h3>Bildungsträger</h3><strong>$traeger_name</strong><div class="address">$traeger_anschrift</div><div>$traeger_kontakt</div></div>
+      <div class="party"><h3>Teilnehmende Person</h3><strong>$teilnehmer_vorname $teilnehmer_nachname</strong><div class="address">$teilnehmer_anschrift</div>$geburtsdatum_block</div>
+    </div>
+  </section>
+  <section aria-labelledby="kurs">
+    <h2 id="kurs">2. Vereinbarte Weiterbildung</h2>
+    <dl>
+      <dt>Kurs / Modul</dt><dd>$kurs$modul_zusatz</dd>
+      <dt>Kurszeitraum</dt><dd>$startdatum bis $enddatum</dd>
+      <dt>Status des Starts</dt><dd>$startstatus_text</dd>
+      <dt>Beginn am ersten Kurstag</dt><dd>$startuhrzeit_text</dd>
+      <dt>Form und Ort</dt><dd>$format_ort</dd>
+      <dt>Umfang und Abschluss</dt><dd>$umfang_abschluss</dd>
+      $massnahmenummer_block
+    </dl>
+    <p class="terms">$leistungsbeschreibung</p>
+  </section>
+  <section aria-labelledby="kosten">
+    <h2 id="kosten">3. Lehrgangskosten und Finanzierung</h2>
+    <dl>
+      <dt>Gesamtpreis des Lehrgangs</dt><dd>$gesamtpreis</dd>
+      <dt>Kostentragung und Fälligkeit</dt><dd class="terms">$kostenregelung</dd>
+      <dt>Förderstatus</dt><dd>$foerderstatus</dd>
+    </dl>
+  </section>
+  <section aria-labelledby="durchfuehrung">
+    <h2 id="durchfuehrung">4. Durchführung und Teilnahme</h2>
+    <p>Der Bildungsträger führt die vereinbarte Weiterbildung durch und stellt die vorgesehenen Unterlagen und Zugänge bereit. Die teilnehmende Person nimmt am bestätigten ersten Kurstag teil und meldet eine Verhinderung oder Zugangsprobleme zeitnah an den Bildungsträger.</p>
+    <p class="terms">$weitere_regelungen</p>
+  </section>
+  <section aria-labelledby="anlagen">
+    <h2 id="anlagen">5. Unterlagen zur Vereinbarung</h2>
+    <p class="terms">$vertragsunterlagen</p>
+    <p>Gesetzliche Rechte bleiben unberührt.</p>
+  </section>
+  <section aria-labelledby="bestaetigung">
+    <h2 id="bestaetigung">6. Bestätigung</h2>
+    <div class="pair">
+      <div><div class="signature"></div><div class="small">Ort, Datum und Unterschrift des Bildungsträgers</div></div>
+      <div><div class="signature"></div><div class="small">Ort, Datum und Unterschrift der teilnehmenden Person</div></div>
+    </div>
+    <p class="small">$bestaetigungsweg</p>
+  </section>
+  <footer class="small">Teilnehmervertrag · $traeger_name</footer>
+</main></body>
+</html>

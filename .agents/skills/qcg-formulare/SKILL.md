@@ -1,6 +1,6 @@
 ---
 name: qcg-formulare
-description: Bereitet BA-Formulare für die individuelle QCG-Beschäftigtenqualifizierung vor und prüft Pflichtfelder, Formularfassungen und Unterschriften. Nutze den Skill für Vollmacht, Arbeitsentgeltzuschuss, Beschäftigtenfragebogen, Betriebs- und Trägerbescheinigung sowie BA-Nachforderungen.
+description: Bereitet BA-Formulare, Teilnehmerverträge und Versandmail-Entwürfe für die individuelle QCG-Beschäftigtenqualifizierung vor. Nutze den Skill für Vollmacht, Arbeitsentgeltzuschuss, Beschäftigtenfragebogen, Betriebs- und Trägerbescheinigung, BA-Nachforderungen und den Versand des Teilnehmervertrags.
 ---
 
 # QCG-Formulare
@@ -15,11 +15,15 @@ Liefere eine vorbefüllte Kopie jeder angeforderten Datei für die teilnehmende 
 
 Prüfe vor der Übergabe Querverbindungen: Privat- und Arbeitgeberanschrift in den richtigen Feldern, identische fallbezogene Kennungen, Modul, Maßnahmenummer und Laufzeit, Unterscheidung zwischen Unterrichtseinheiten, Zeitstunden und bezahltem weiterbildungsbedingtem Arbeitsausfall. Stimme bei Abweichungen ab, welche Angabe gilt. Trenne Entwurfsstatus, Unterschriftsstatus und Einreichungsstatus.
 
+## Teilnehmervertrag und Versandmail
+
+Lies bei diesem Auftrag die [Anleitung zur Vertragserstellung](references/teilnehmervertrag.md). Nutze die Vertragsdaten der Teilnehmer:innen, den bestätigten Lehrgang und den belegten Startstatus. Prüfe, ob es eine freigegebene kursbezogene Vertragsfassung gibt. Wenn sie vorliegt, übernimm deren Regelungen. Falls nur die neutrale Vorlage vorliegt, erstelle eine vorausgefüllte Arbeitsfassung mit sichtbaren Lücken. Der lokale [Vertragshelfer](scripts/teilnehmervertrag.py) erzeugt Vertrag und passende Versandmail gemeinsam. Die Mail nennt Anhang, Buchungsstatus, Startdatum, Uhrzeit, Zugang, Vertragsrückgabe und Teilnahme am bestätigten ersten Kurstag. Verwende Vormerkung, solange der konkrete Start nicht bestätigt ist. Übergabe und Versand unterliegen dem üblichen Auftrag und dem vereinbarten Kanal.
+
 ## Sobald eine BA-Rückmeldung vorliegt
 
 1. Ermittle Eingang, Frist, Fallzuordnung und bereits akzeptierte Unterlagen aus der Originalmitteilung. Die zuständige Person im NetZero-Service bestätigt den Eingang auf dem vereinbarten Kanal. Bei drohender Frist sofort eskalieren. Interne Richtwerte sind höchstens zwei Arbeitsstunden für die erste Rückmeldung und eine Übergabe am selben Arbeitstag, soweit die Daten und Unterschriften vorliegen.
 2. Bei einer Nachforderung die verlangten Formulare, Fassungen und Seiten sofort neu vorbereiten. Prüfe die zuletzt freigegebenen Daten des Falls. Korrigierte Angaben bewusst übernehmen. Bereits unterschriebene Originale archivieren. Bei einer Änderung des Inhalts erneut die erforderliche Unterschrift der zuständigen Person einholen. Wenn Fakten oder Unterschriften fehlen, fertige die übrigen Dokumente an und melde klar, wer bis wann zuliefern muss.
-3. Bei einer Rückfrage zum Bedarf die passende Antwort und belegte Anlagen vorbereiten. Bei Bewilligung Umfang, Bedingungen und nächste Schritte prüfen. Bei ablehnendem Bescheid Gründe und die im Bescheid genannte Frist aufnehmen und an die zuständige Beratung übergeben. Nur bei Unterlagenbedarf erneut Formulare ausstellen.
+3. Bei einer Rückfrage zum Bedarf die passende Antwort und belegte Anlagen vorbereiten. Nach positiver Förderrückmeldung Teilnehmervertrag und Versandmail gemäß dem aktuellen Buchungsstatus vorbereiten. Bei Bewilligung Umfang, Bedingungen und nächste Schritte prüfen. Bei ablehnendem Bescheid Gründe und die im Bescheid genannte Frist aufnehmen und an die zuständige Beratung übergeben. Nur bei Unterlagenbedarf erneut BA-Formulare ausstellen.
 4. Bereite für die teilnehmende Person ein Paket aus den betroffenen PDFs und einer kurzen Nachricht vor. Nenne darin pro Datei, welche Fassung sie ersetzt, wer unterschreibt, bis wann gehandelt werden muss und wer auf welchem Weg bei der BA einreicht. Arbeitgeberunterlagen mit internen Entgeltdaten gehen ausschließlich an die dafür zuständige Stelle. Übermittle Unterlagen nur im ausdrücklich beauftragten Umfang über den vereinbarten geschützten Kanal. Dokumentiere Übergabe, Einreichungsnachweis und Folgetermin in der Fallakte.
 
 Nutze für Dokumentation, Beispiele, Testdaten und Repository-Dateien neutrale Bezeichnungen wie „Teilnehmer:in“, „Arbeitgeber“ und „Träger“. Reale Fallnamen, Stammdaten, IDs, Mails, unterschriebene oder ausgefüllte PDFs und Fallpfade gehören nur in die geschützte Fallakte. Bei Beispielen das offizielle Blanko oder synthetische Werte verwenden.

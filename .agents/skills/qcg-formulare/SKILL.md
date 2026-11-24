@@ -1,9 +1,15 @@
 ---
 name: qcg-formulare
-description: Bereitet BA-Formulare, Teilnehmerverträge und Versandmail-Entwürfe für die individuelle QCG-Beschäftigtenqualifizierung vor. Nutze den Skill für Vollmacht, Arbeitsentgeltzuschuss, Beschäftigtenfragebogen, Betriebs- und Trägerbescheinigung, BA-Nachforderungen und den Versand des Teilnehmervertrags.
+description: Erstellt §-81-Dossiers für BA-Beratung und individuelle Bildungsgutscheine mit Eignungscheck, Stellenbelegen, regionaler Bildungszielplanung, Kursdaten und Rückfragen. Bereitet für QCG nach § 82 BA-Formulare, Antworten auf Nachforderungen, Teilnehmerverträge und Versandmail-Entwürfe vor.
 ---
 
-# QCG-Formulare
+# QCG-Formulare und §-81-Dossier
+
+## Individueller Bildungsgutschein nach § 81 SGB III
+
+Für die Vorbereitung eines persönlichen BA-Termins lies [§-81-Dossier](references/bildungsgutschein-dossier.md). Erstelle eine Kurzbegründung, prüfe die Eignung anhand vorhandener Unterlagen, recherchiere drei passende aktuelle Stellenanzeigen und die maßgebliche regionale Bildungszielplanung und gleiche die konkrete AZAV-Maßnahme mit den freigegebenen Kursdaten ab. Liefere die Belegliste und frage fehlende Angaben gesammelt bei den zuständigen Personen ab. Die QCG-Formularschritte unten gelten für den Förderweg nach § 82.
+
+## Formulare für QCG nach § 82 SGB III
 
 Liefere eine vorbefüllte Kopie jeder angeforderten Datei für die teilnehmende Person und eine kurze Liste, was je Dokument offen ist und wer es anhand des konkreten Formulars unterschreibt. Der neutrale Leitfaden im NetZero-Repo liegt unter `docs/qcg-bildungstraeger.html`. Die [Formularmatrix](references/formulare.md) funktioniert auch eigenständig.
 
@@ -17,7 +23,7 @@ Prüfe vor der Übergabe Querverbindungen: Privat- und Arbeitgeberanschrift in d
 
 ## Regionale Bildungszielplanung und BA-Kontakte
 
-Wenn ein konkreter Fall eine Förderbegründung oder einen BA-Kontakt braucht, prüfe die regionale Bildungszielplanung live. Bei der individuellen Förderung nach § 81 SGB III ermittle die für die teilnehmende Person zuständige Agentur. Bei QCG nach § 82 SGB III prüfe die Zuständigkeit des Arbeitgeber-Service anhand des Sitzes der personalverantwortlichen Leitung. Verwende im §-81-Fall diesen Abschnitt für die Planrecherche und den Trägerkontakt.
+Wenn ein konkreter Fall eine Förderbegründung oder einen BA-Kontakt braucht, prüfe die regionale Bildungszielplanung live. Bei der individuellen Förderung nach § 81 SGB III ermittle die für die teilnehmende Person zuständige Agentur. Bei QCG nach § 82 SGB III prüfe die Zuständigkeit des Arbeitgeber-Service anhand des Sitzes der personalverantwortlichen Leitung. Verwende im §-81-Fall diesen Abschnitt auch für die Planrecherche im Dossier und für den Trägerkontakt.
 
 1. Öffne die offizielle BA-Seite des Bezirks und die Originalfassung für das geplante Startjahr. Prüfe Datum, Nachträge, neuere Fassungen und den relevanten Abschnitt für den Förderweg. Prüfe auch den veröffentlichten Kontaktweg. Ältere Fundstellen und Kontaktlisten dienen als Einstieg in die Recherche.
 2. Dokumentiere Bezirk, Förderweg, Startjahr, Planjahr, Fassung oder Veröffentlichungsdatum, Abrufdatum, Fundstelle mit Seite oder Abschnitt und die genaue Nennung. Ordne ein, ob die Quelle ein konkretes Bildungsziel, ein Beispiel oder einen allgemeinen Bedarf beschreibt. Vergleiche Ziel, Maßnahme und belegte Vorqualifikation. Bei veröffentlichter Änderung aktualisiere Fundstelle, Begründung und Entwurf.

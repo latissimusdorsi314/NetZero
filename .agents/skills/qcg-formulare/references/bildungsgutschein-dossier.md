@@ -17,7 +17,7 @@ Erstelle für die teilnehmende Person eine Kurzbegründung von ungefähr einer S
 
 ## 3. Maßgeblichen Bildungszielplan prüfen
 
-- Folge dem Abschnitt „Regionale Bildungszielplanung und BA-Kontakte“ im [Skill](../SKILL.md#regionale-bildungszielplanung-und-ba-kontakte). Ermittle den zuständigen Bezirk der Person und prüfe auf der offiziellen BA-Seite die Fassung für das geplante Startjahr, einschließlich Nachträgen und Änderungen. Verwende die älteren NetZero-Fundstellen als Einstieg für die Live-Recherche.
+- Folge dem Abschnitt „Regionale Bildungszielplanung und BA-Kontakte“ im [Skill](../SKILL.md#regionale-bildungszielplanung-und-ba-kontakte). Ermittle den zuständigen Bezirk der Person und prüfe auf der offiziellen BA-Seite die Fassung für das geplante Startjahr, einschließlich Nachträgen und Änderungen. Nutze das [bundesweite Bezirksregister](agenturbezirke.csv) als Einstieg für die Live-Recherche und verwende im konkreten Fall den aktuell belegten Stand.
 - Nenne Bezirk, Planjahr, veröffentlichten Stand soweit angegeben, Abrufdatum, Direktlink und Seite oder Abschnitt. Bezeichne, ob die Fundstelle das konkrete Ziel, einen verwandten Qualifizierungsbereich oder allgemeinen Arbeitsmarktbedarf beschreibt. Bei fehlender direkter Fundstelle begründe die Passung mit Stellen- und Kursbelegen. Bei unverifizierbarem Planstand formuliere eine Rückfrage an die zuständige BA-Stelle und lasse den Planstand als offen im Arbeitsentwurf stehen.
 
 ## 4. Kursdaten und Zulassung abgleichen

@@ -23,6 +23,6 @@ python3 /pfad/zum/skill/scripts/teilnehmervertrag.py \
 | Träger und Teilnehmer:in | `traeger_name`, `traeger_anschrift`, `traeger_kontakt`, `teilnehmer_vorname`, `teilnehmer_nachname`, `teilnehmer_anschrift`, `teilnehmer_email`. Optional `geburtsdatum`. |
 | Weiterbildung | `kurs`, `startdatum`, `enddatum`, `startstatus`, `startuhrzeit`, `format_ort`, `umfang_abschluss`, `leistungsbeschreibung`. Optional `modul`, `massnahmenummer`. |
 | Kosten und Vertrag | `gesamtpreis`, `kostenregelung`, `foerderstatus`, `weitere_regelungen`, `vertragsunterlagen`, `bestaetigungsweg`. Beträge, Bedingungen, Anlagen und Rechtsinformationen aus bestätigter Quelle übernehmen. |
-| Versand | `zugangslink` als HTTPS-Link oder `treffpunkt`, `rueckgabefrist`, `rueckgabeweg`. Optional `absenderteam`. |
+| Versand | `zugangslink` als HTTPS-Link oder `treffpunkt`, `rueckgabefrist`, `rueckgabeweg`. Optional `absenderteam` und verifizierte `fall_email`. Fehlt `fall_email`, verwende den Entwurf mit dem Absenderhinweis nur, wenn die Versandadresse zugleich die bestätigte Falladresse ist. |
 
 Datumseingaben `TT.MM.JJJJ` oder `JJJJ-MM-TT`. Uhrzeit `HH:MM`. `--freigegeben` entfernt die Entwurfskennzeichnung ausschließlich nach dokumentierter Freigabe der konkreten Fassung. Das Programm prüft hierfür die Vollständigkeit der erforderlichen Felder. Die interne Freigabe prüft die tatsächlichen Vertragsbedingungen, Unterlagen und ggf. die Zulassung. Unterschriften und tatsächliche Bestätigungsdaten werden durch die Beteiligten gesetzt.

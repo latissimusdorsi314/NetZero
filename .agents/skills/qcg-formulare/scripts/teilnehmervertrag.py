@@ -39,7 +39,7 @@ REQUIRED = {
     "rueckgabefrist": "Rückgabefrist für den Vertrag",
     "rueckgabeweg": "Rückgabeweg für den Vertrag",
 }
-OPTIONAL = {"geburtsdatum", "modul", "massnahmenummer", "zugangslink", "treffpunkt", "absenderteam"}
+OPTIONAL = {"geburtsdatum", "modul", "massnahmenummer", "zugangslink", "treffpunkt", "absenderteam", "fall_email"}
 MULTILINE = {
     "traeger_anschrift", "teilnehmer_anschrift", "leistungsbeschreibung", "kostenregelung",
     "weitere_regelungen", "vertragsunterlagen",
@@ -91,8 +91,9 @@ def validate(data):
         data[key] = value.strftime("%d.%m.%Y")
     if "startuhrzeit" in data and not re.fullmatch(r"(?:[01][0-9]|2[0-3]):[0-5][0-9]", data["startuhrzeit"]):
         raise ValueError("startuhrzeit: Uhrzeit im Format HH:MM erwartet.")
-    if "teilnehmer_email" in data and not re.fullmatch(r"[^\s@<>]+@[^\s@<>]+\.[^\s@<>]+", data["teilnehmer_email"]):
-        raise ValueError("teilnehmer_email: einzelne E-Mail-Adresse erwartet.")
+    for key in ("teilnehmer_email", "fall_email"):
+        if key in data and not re.fullmatch(r"[^\s@<>]+@[^\s@<>]+\.[^\s@<>]+", data[key]):
+            raise ValueError(f"{key}: einzelne E-Mail-Adresse erwartet.")
     if "zugangslink" in data:
         link = urlsplit(data["zugangslink"])
         if link.scheme != "https" or not link.hostname or link.username or any(c.isspace() for c in data["zugangslink"]):
@@ -135,6 +136,7 @@ def mail_values(data, values, confirmed):
         attendance = "Sobald der Starttermin bestätigt ist, ist die Teilnahme an diesem ersten Kurstag verpflichtend."
     view.update({
         "mail_betreff": f"{subject} | {values['kurs']}",
+        "mail_ba_kanal": data.get("fall_email", "die Absenderadresse dieser E-Mail"),
         "mail_buchung": booking,
         "mail_start_label": "Start" if confirmed else "Geplanter Start",
         "startzeit_zusatz": f" um {values['startuhrzeit']} Uhr",

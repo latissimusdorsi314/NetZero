@@ -3,6 +3,8 @@ Betreff: $mail_betreff
 
 Hallo $teilnehmer_vorname,
 
+Bitte leite jede Rückmeldung der Agentur für Arbeit unverändert und ohne Kommentar mit ihren Anlagen an $mail_ba_kanal weiter. Bei Portalnachrichten nutze den vereinbarten geschützten Weg. Wir prüfen die Nachricht und senden Dir je nach Rückmeldung die vorausgefüllten Unterlagen und einen Antwortentwurf zurück. So brauchst Du sie im besten Fall nur zu prüfen, bei Bedarf zu unterschreiben und wie von der BA vorgesehen einzureichen.
+
 anbei findest Du Deinen Teilnehmervertrag für $kurs$modul_zusatz. $mail_buchung
 
 $mail_start_label: $startdatum$startzeit_zusatz

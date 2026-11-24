@@ -5,6 +5,10 @@ description: Erstellt §-81-Dossiers für BA-Beratung und individuelle Bildungsg
 
 # QCG-Formulare und §-81-Dossier
 
+## Teilnehmendenservice für beide Förderwege
+
+Lies den [Serviceablauf mit Eingabedaten je Dokument](references/serviceablauf.md). Starte mit der [ersten Teilnehmenden-Mail](assets/fallstart-mail.txt). Darin steht direkt nach der Begrüßung, dass die Person jede BA-Rückmeldung samt Anlagen unverändert und ohne Kommentar an die bestätigte NetZero-Falladresse weiterleiten soll. Für BA-Portaldokumente gilt der vereinbarte geschützte Weg. Nutze bei jeder vorliegenden BA-Rückmeldung bestätigte Daten aus der Fallakte und erstelle für alle verlangten Unterlagen vorausgefüllte Entwürfe, soweit die Vorlage es zulässt. Lege einen BA-Antwortentwurf mit Empfänger, Anlagen, Frist und Einreichungsweg bei. Frage verbliebene Angaben gesammelt ab. Zeichnungsberechtigte Personen prüfen und unterschreiben oder bestätigen elektronisch. Der vereinbarte Absender reicht ein.
+
 ## Individueller Bildungsgutschein nach § 81 SGB III
 
 Für die Vorbereitung eines persönlichen BA-Termins lies [§-81-Dossier](references/bildungsgutschein-dossier.md). Erstelle eine Kurzbegründung, prüfe die Eignung anhand vorhandener Unterlagen, recherchiere drei passende aktuelle Stellenanzeigen und die maßgebliche regionale Bildungszielplanung und gleiche die konkrete AZAV-Maßnahme mit den freigegebenen Kursdaten ab. Liefere die Belegliste und frage fehlende Angaben gesammelt bei den zuständigen Personen ab. Die QCG-Formularschritte unten gelten für den Förderweg nach § 82.
@@ -29,7 +33,7 @@ Wenn ein konkreter Fall eine Förderbegründung oder einen BA-Kontakt braucht, p
 2. Dokumentiere Bezirk, Förderweg, Startjahr, Planjahr, Fassung oder Veröffentlichungsdatum, Abrufdatum, Fundstelle mit Seite oder Abschnitt und die genaue Nennung. Ordne ein, ob die Quelle ein konkretes Bildungsziel, ein Beispiel oder einen allgemeinen Bedarf beschreibt. Vergleiche Ziel, Maßnahme und belegte Vorqualifikation. Bei veröffentlichter Änderung aktualisiere Fundstelle, Begründung und Entwurf.
 3. Prüfe erneut vor der Übergabe einer Förderbegründung oder eines BA-Kontaktentwurfs, wenn seit der letzten Prüfung ein neuer Plan oder Nachtrag erschienen sein kann, der Kursstart oder Bezirk sich ändert oder die BA auf eine andere Fassung verweist. Ist die maßgebliche Fassung öffentlich nicht verifizierbar, markiere den Planstand als offen, bereite eine Rückfrage an die zuständige Stelle vor und bearbeite die übrigen Unterlagen weiter.
 
-Für die Energieberater-Ausbildung mit individuellem Bildungsgutschein nutze die [NetZero-Arbeitsgrundlage mit vier Agenturbezirken und Erstkontakt-Entwürfen](https://github.com/latissimusdorsi314/NetZero/blob/main/docs/azav-energieberatung-ba-erstkontakt.md). Prüfe die dort genannten Planfassungen und Kontakte vor Verwendung erneut.
+Nutze das [bundesweite Bezirksregister mit Prüfstatus](references/agenturbezirke.csv) anhand der amtlichen BA-Bezirksnummer oder des Bezirksnamens. Für belegte Nennungen der Energieberatung findest Du die [BA-Kontakte und Erstkontakt-Entwürfe](https://github.com/latissimusdorsi314/NetZero/blob/main/docs/azav-energieberatung-ba-erstkontakt.md). Ein verwandter Schwerpunkt oder ein geprüfter Plan ohne Nennung lässt sich mit individuellen Stellen- und Kursbelegen ergänzen. Bei offenem Planstand entwirf eine Anfrage an die zuständige BA-Stelle nach der Fassung für das Startjahr. Prüfe die aktuelle Fassung und den Kontakt im konkreten Fall erneut, auch wenn ein Registereintrag vorliegt.
 
 ## Teilnehmervertrag und Versandmail
 

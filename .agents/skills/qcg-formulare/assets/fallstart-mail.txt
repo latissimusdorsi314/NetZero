@@ -1,0 +1,14 @@
+An: $teilnehmer_email
+Betreff: Deine Weiterbildung – wir helfen Dir bei den Unterlagen für die Agentur für Arbeit
+
+Hallo $teilnehmer_vorname,
+
+bitte leite jede Rückmeldung der Agentur für Arbeit einfach unverändert und ohne Kommentar an $falladresse weiter. Hänge die mitgeschickten Unterlagen mit an. Ist die Nachricht im BA-Portal, sende uns die heruntergeladene Mitteilung über den vereinbarten geschützten Weg.
+
+Wir prüfen die Nachricht und schicken Dir, je nach Rückmeldung, die vorausgefüllten Unterlagen und einen Entwurf für Deine Antwort zurück. Wenn alle Angaben vorliegen, brauchst Du die Unterlagen nur noch zu prüfen, bei Bedarf zu unterschreiben und über den von der Agentur vorgesehenen Weg einzureichen. Wenn der Bildungsträger oder der Arbeitgeber etwas bestätigen oder einreichen muss, sagen wir Dir, wer das übernimmt.
+
+Dein nächster Schritt
+$naechster_schritt
+
+Viele Grüße
+Dein NetZero-Team

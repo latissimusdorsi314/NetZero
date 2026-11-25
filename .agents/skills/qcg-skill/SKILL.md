@@ -1,9 +1,9 @@
 ---
-name: qcg-formulare
+name: qcg-skill
 description: Bereitet individuelle §-81-Dossiers und arbeitgeberseitige QCG-Begründungen nach § 82 für BA-Förderfälle vor, insbesondere für Energieberatung, Energieeffizienz, Bauschäden und Bauleitung. Prüft Kursnachweise und fragt fehlende Belege ab. Füllt angeforderte BA-Formulare voraus und entwirft Teilnehmerverträge und Versandmails.
 ---
 
-# QCG-Formulare und §-81-Dossier
+# QCG-Skill für Formulare und §-81-Dossiers
 
 ## Teilnehmendenservice für beide Förderwege
 

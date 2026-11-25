@@ -4,7 +4,7 @@
 
 ## Bundesweites Bezirksregister
 
-Das [Register aller 146 Agenturbezirke](../.agents/skills/qcg-formulare/references/agenturbezirke.csv) verwendet die BA-Gebietsstruktur vom 12. November 2026 mit amtlicher Bezirksnummer. Der Abgleich umfasst die öffentlich erreichbaren BA-Bezirksseiten und die aufgefundenen Planungsunterlagen. Bei gemeinsamen Plänen kann dieselbe Fundstelle in mehreren Bezirken stehen. Das Abrufdatum im Register dokumentiert den Recherchezeitpunkt, das Planjahr die Geltung der Quelle. [Amtliche BA-Gebietsstruktur](https://statistik.arbeitsagentur.de/DE/Navigation/Grundlagen/Klassifikationen/Regionale-Gliederungen/BA-Gebietsstruktur-Nav.html)
+Das [Register aller 146 Agenturbezirke](../.agents/skills/qcg-skill/references/agenturbezirke.csv) verwendet die BA-Gebietsstruktur vom 12. November 2026 mit amtlicher Bezirksnummer. Der Abgleich umfasst die öffentlich erreichbaren BA-Bezirksseiten und die aufgefundenen Planungsunterlagen. Bei gemeinsamen Plänen kann dieselbe Fundstelle in mehreren Bezirken stehen. Das Abrufdatum im Register dokumentiert den Recherchezeitpunkt, das Planjahr die Geltung der Quelle. [Amtliche BA-Gebietsstruktur](https://statistik.arbeitsagentur.de/DE/Navigation/Grundlagen/Klassifikationen/Regionale-Gliederungen/BA-Gebietsstruktur-Nav.html)
 
 | Prüfstatus | Anzahl | Verwendung im Einzelfall |
 | --- | ---: | --- |

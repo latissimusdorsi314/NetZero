@@ -1,6 +1,6 @@
 # Energieberater-Ausbildung mit Bildungsgutschein – Erstkontakt zur Agentur für Arbeit
 
-**Recherchestand 24. November 2026.** Die Arbeitsgrundlage betrifft individuelle Bildungsgutscheine nach § 81 SGB III. Prüfe die offizielle Veröffentlichung für den konkreten Bezirk und das geplante Startjahr sowie den Kontaktweg vor Verwendung erneut. Der veröffentlichte Plan unterstützt die Einordnung im Einzelfall. [§ 81 SGB III](https://www.gesetze-im-internet.de/sgb_3/__81.html) · [BA – Bildungsgutschein](https://www.arbeitsagentur.de/karriere-und-weiterbildung/bildungsgutschein) · [NetZero – Kurse mit Bildungsgutschein](https://www.netzeroacademy.de/bildungsgutschein)
+**Recherchestand 25. November 2026.** Die Arbeitsgrundlage betrifft individuelle Bildungsgutscheine nach § 81 SGB III. Prüfe die offizielle Veröffentlichung für den konkreten Bezirk und das geplante Startjahr sowie den Kontaktweg vor Verwendung erneut. Der veröffentlichte Plan unterstützt die Einordnung im Einzelfall. [§ 81 SGB III](https://www.gesetze-im-internet.de/sgb_3/__81.html) · [BA – Bildungsgutschein](https://www.arbeitsagentur.de/karriere-und-weiterbildung/bildungsgutschein) · [NetZero – Kurse mit Bildungsgutschein](https://www.netzeroacademy.de/bildungsgutschein)
 
 ## Bundesweites Bezirksregister
 
@@ -8,12 +8,18 @@ Das [Register aller 146 Agenturbezirke](../.agents/skills/qcg-formulare/referenc
 
 | Prüfstatus | Anzahl | Verwendung im Einzelfall |
 | --- | ---: | --- |
-| Ausdrückliche Nennung | 15 | Originalstelle lesen und Einordnung beachten. Ein Arbeitsmarkt-Hinweis liefert eine andere Begründungsgrundlage als ein konkretes Bildungsziel. |
-| Verwandter Schwerpunkt | 3 | Passung mit konkreten Stellen und Kursmodulen belegen. |
-| Geprüfter Plan ohne ausdrückliche Nennung | 75 | Der Befund bezieht sich auf die verlinkte Fassung. Individuellen Qualifizierungsbedarf mit Arbeitsmarktbelegen begründen. |
-| Planstand offen | 53 | Bei der zuständigen BA-Stelle die Fassung für das Startjahr oder die Einordnung des Ziels erfragen. |
+| Ausdrückliche Nennung | 16 | Originalstelle lesen und Einordnung beachten. Ein Arbeitsmarkt-Hinweis liefert eine andere Begründungsgrundlage als ein konkretes Bildungsziel. |
+| Verwandter Schwerpunkt | 12 | Passung mit konkreten Stellen und Kursmodulen belegen. |
+| Geprüfter Plan ohne ausdrückliche Nennung | 87 | Der Befund bezieht sich auf die verlinkte Fassung. Individuellen Qualifizierungsbedarf mit Arbeitsmarktbelegen begründen. |
+| Planstand offen | 31 | Bei der zuständigen BA-Stelle die Fassung für das Startjahr oder die Einordnung des Ziels erfragen. |
 
-## BA-Kontakte und Entwürfe für die 15 ausdrücklichen Nennungen
+Von 53 nachrecherchierten Bezirken konnten 22 anhand einer veröffentlichten Planung eingeordnet werden. Bei 16 der 31 weiterhin offenen Bezirke dokumentiert das Register ältere oder teilweise einschlägige Unterlagen, eine Kontaktseite oder einen defekten Planlink. Einige öffentlich verlinkte Planungen haben einen Redaktionsstand oder sind undatiert. Für diese Fälle bleibt das Startjahr mit der BA zu klären.
+
+**Waiblingen ist der neue ausdrückliche Treffer.** Der Bezirk nennt „Energiemanagement/-beratung“ als Anpassungsqualifizierung für Fachkräfte bzw. Personen mit Berufserfahrung. Die Tabelle nennt einen technischen Ausbildungs- oder Studienabschluss und fachliche Inhalte wie Ökobilanzen. Für Frankfurt am Main ist die ausdrückliche Nennung auf PDF-Seite 3 historisch belegt. Die BA-Schwerpunkte 2026 führen Energieberatung auf der entsprechenden Folie nicht ausdrücklich auf. [Waiblingen ab 2026, PDF-S. 17](https://www.arbeitsagentur.de/vor-ort/datei/qualifizierungsschwerpunkte_2026_ba267355.pdf#page=17) · [Frankfurt am Main 2025, PDF-S. 3](https://www.arbeitsagentur.de/vor-ort/datei/bildungszielplanung_ba226593.pdf#page=3)
+
+Für individuelle Dossiers und die Wahl des Förderwegs gibt es Argumente je Kursfamilie. [Förderargumente für NetZero-Weiterbildungen](azav-foerderargumente-netzero.md)
+
+## BA-Kontakte und Entwürfe für die 16 ausdrücklichen Nennungen
 
 Die vier zuerst aufgeführten Bezirke sind die Pilotregionen. Jeder Kontakt ist auf einen offiziellen BA-Kanal zurückgeführt. Bei allgemeinen Institutionenkontakten enthält die Vorlage eine Bitte um Weiterleitung. Für Oldenburg–Wilhelmshaven gilt das ausgewiesene Postfach für einmalige Maßnahmeinformationen. [BA-Hinweise für Bildungsträger in Oldenburg–Wilhelmshaven](https://www.arbeitsagentur.de/vor-ort/oldenburg-wilhelmshaven/institutionen/infos)
 
@@ -34,6 +40,7 @@ Die vier zuerst aufgeführten Bezirke sind die Pilotregionen. Jeder Kontakt ist 
 | Rhein–Wied–Westerwald | Denise Janine Zeuke und Julia Haag · Bildungskoordination für Weiterbildungsträger · [rhein-wied-westerwald.bildungskoordination@arbeitsagentur.de](mailto:rhein-wied-westerwald.bildungskoordination@arbeitsagentur.de) · [BA-Quelle](https://www.arbeitsagentur.de/vor-ort/rhein-wied-westerwald/institutionen/schwerpunkte-der-beruflichen-weiterbildungsfoerderung-der-agentur-fuer-arbeit-neuwied) | [2026, S. 10](https://www.arbeitsagentur.de/vor-ort/datei/bildungszielplanung_2026_ba262546.pdf#page=10) | [Entwurf](#rhein-wied-westerwald) |
 | Thüringen Ost | Funktionspostfach Qualifizierung · [Thueringen-Ost.Qualifizierung@arbeitsagentur.de](mailto:Thueringen-Ost.Qualifizierung@arbeitsagentur.de) · [BA-Quelle](https://www.arbeitsagentur.de/vor-ort/thueringen-ost/qualifizierungsstrategie) | [2026, PDF-S. 10](https://www.arbeitsagentur.de/vor-ort/datei/qualifizierungsstrategie-tho_ba187089.pdf#page=10) | [Entwurf](#thueringen-ost) |
 | Trier | Oliver Schmitz · Bildungskoordination und Ansprechpartner für Weiterbildungsträger · [Trier.Biko@arbeitsagentur.de](mailto:Trier.Biko@arbeitsagentur.de) · [BA-Quelle](https://www.arbeitsagentur.de/vor-ort/trier/weiterbildung/bildungszielplanung) | [2026, S. 10](https://www.arbeitsagentur.de/vor-ort/datei/bzp_ba223322.pdf#page=10) | [Entwurf](#trier) |
+| Waiblingen | Institutionenkontakt, Weiterleitung an die Bildungskoordination · [BA-Quelle](https://www.arbeitsagentur.de/vor-ort/waiblingen/institutionen/bildungszielplanung) | [ab 2026, PDF-S. 17](https://www.arbeitsagentur.de/vor-ort/datei/qualifizierungsschwerpunkte_2026_ba267355.pdf#page=17) | [Entwurf](#waiblingen) |
 
 Vor der Freigabe Abschnitt und Planjahr prüfen. Für ein Kursdatenblatt die freigegebene Kursvariante mit Maßnahmenummer, Lernzielen, Online-Format, Dauer, Startterminen, Zugangsvoraussetzungen und tatsächlichem Abschluss übernehmen. Angaben zu einzelnen Bewerber:innen gehören in die geschützte Fallakte.
 
@@ -323,3 +330,19 @@ Unter welcher Bildungszielbezeichnung würden Sie unseren Schwerpunkt Wohngebäu
 Viele Grüße<br>
 Dominik Albicker<br>
 NetZero Academy
+
+<a name="waiblingen"></a>
+
+### Waiblingen
+
+**Adressierung** Agentur für Arbeit Waiblingen, zu Händen der Bildungskoordination<br>
+**Betreff** Bildungsziel „Energiemanagement/-beratung“ – fachliche Einordnung einer NetZero-Maßnahme
+
+Guten Tag,
+
+ich bin Dominik Albicker, Geschäftsführer der NetZero Academy aus München. In Ihren Qualifizierungsschwerpunkten ab 2026 führen Sie auf PDF-Seite 17 „Energiemanagement/-beratung“ für Fachkräfte und Personen mit Berufserfahrung auf. Die Tabelle nennt einen technischen Ausbildungs- oder Studienabschluss. [BA-Original, PDF-S. 17](https://www.arbeitsagentur.de/vor-ort/datei/qualifizierungsschwerpunkte_2026_ba267355.pdf#page=17)
+
+Wir bieten online Weiterbildungen für die Energieberatung und weitere Themen der Energieeffizienz an. Für die Prüfung individueller Bildungsgutscheine würde ich Ihnen gern eine konkrete, zugelassene Maßnahme anhand des Kursdatenblatts und Lehrplans vorstellen. Ist bei Ihrer Planung eine auf Wohngebäude ausgerichtete Energieberatung fachlich zuordenbar? Welche Kursinhalte und Nachweise sind für Ihr Team bei der Prüfung entscheidend?
+
+Viele Grüße<br>
+Dominik Albicker

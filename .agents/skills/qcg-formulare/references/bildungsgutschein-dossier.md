@@ -4,8 +4,9 @@ Erstelle für die teilnehmende Person eine Kurzbegründung von ungefähr einer S
 
 ## 1. Fallaufnahme und Eignung
 
+- Wähle das [Kursprofil](foerderprofile.md#förderargumente-und-nachweise-je-kurs) anhand des konkreten Lehrgangs und der Zielrolle. Nutze die dort genannten Berufsbezeichnungen für die Stellensuche und prüfe die für das Ziel erforderlichen Nachweise. Bei abweichender Kursvariante verwende den freigegebenen Lehrplan.
 - Lies vorhandenen Lebenslauf, Abschlussnachweise, Kursangebot und BA-Rückmeldungen. Ermittle berufliche Ausgangslage, angestrebte Tätigkeit, erreichbaren Arbeitsmarkt, zuständige Agentur und geplantes Startjahr. Nutze bestätigte Fallangaben vor älteren Unterlagen. Widersprüche zur Klärung markieren.
-- Prüfe, ob die Vorqualifikation und Erfahrung zum Zielberuf und zu den belegten Zugangsvoraussetzungen der konkreten Kursvariante passen. Erfasse die fachliche Lücke, die eine Arbeitsaufnahme erschwert, sowie notwendige Rahmenbedingungen für die Teilnahme, etwa Online-Format oder zeitliche Verfügbarkeit. Halte fest, was belegt ist, was bestätigt werden muss und welche Voraussetzung gegebenenfalls noch fehlt.
+- Prüfe, ob die Vorqualifikation und Erfahrung zum Zielberuf und zu den belegten Zugangsvoraussetzungen der konkreten Kursvariante passen. Erfasse die fachliche Lücke, die eine Arbeitsaufnahme erschwert, oder wie die Weiterbildung eine belegte drohende Arbeitslosigkeit abwenden kann. Erfasse auch notwendige Rahmenbedingungen für die Teilnahme, etwa Online-Format oder zeitliche Verfügbarkeit. Halte fest, was belegt ist, was bestätigt werden muss und welche Voraussetzung gegebenenfalls noch fehlt.
 - Wenn die angestrebte Tätigkeit die Eintragung in die Energieeffizienz-Expertenliste erfordert, prüfe den individuellen Weg für die passende Kategorie anhand aktueller offizieller Informationen. Erfasse Grundqualifikation, benötigte Zusatzqualifikation und gegebenenfalls noch ausstehende Prüfung oder Bestätigung. Frage bei unklarem Weg nach einer Vorabklärung. [EEE-Liste – Eintragungsvoraussetzungen](https://www.energie-effizienz-experten.de/fuer-experten/weitere-informationen/)
 
 ## 2. Drei passende aktuelle Stellenanzeigen recherchieren
@@ -32,7 +33,7 @@ Erstelle für die teilnehmende Person eine Kurzbegründung von ungefähr einer S
 | Abschnitt | Inhalt |
 | --- | --- |
 | Berufliches Ziel | Angestrebte Tätigkeit und realistischer Arbeitsmarkt. |
-| Ausgangslage und Eignung | Relevanter Abschluss und Erfahrung, Kurszugang und gegebenenfalls Stand der Eintragungsvoraussetzungen. |
+| Ausgangslage und Eignung | Relevanter Abschluss und Erfahrung, Kurszugang und nach Kursprofil gegebenenfalls Anforderungen an Listeneintragung, Auditberechtigung, externe Prüfung oder Bauleitungsfunktion. |
 | Qualifikationslücke und Beschäftigungschance | Was die belegten Arbeitgeber verlangen und welches Kursmodul die Lücke schließt. Auf die Stellenbelege verweisen. |
 | Regionale Einordnung | Bildungszielplan mit Stand und Fundstelle oder belegter Arbeitsmarktbezug bei offenem Planstand. |
 | Konkrete Maßnahme | Titel, Träger, Maßnahmenummer soweit vergeben, Zeitraum, Dauer, Format, Kosten, Abschluss und Nachweis der Zulassung. |
